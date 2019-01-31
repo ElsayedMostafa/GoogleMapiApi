@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testproject</string>
+    <string name="getbuttonstring">click</string>
+    <string name="aaa">click2</string>
+    <string name="aaaa">click3</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
